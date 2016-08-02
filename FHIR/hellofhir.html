@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script type="text/javascript" src="jquery-1.12.4.min.js"></script>
+    <script type="text/javascript">
+        function search(family) {
+            $.getJSON('http://41.86.176.221:8080/fhir/Patient?family=' + family +'&_format=json',
+                function (data) {
+                    var tableData = "";
+                    for (var entry in data.entry)
+                        tableData += "<tr><td>" + data.entry[entry].summary + "</td></tr>";
+
+                    $('#patients').html(tableData);
+                });
+        };
+        function create() {
+            $.ajax({
+                url: 'http://41.86.176.221:8080/fhir/Patient',
+                contentType: 'application/json+fhir',
+                method: 'POST',
+                data: {
+                    "resourceType": "Patient",
+                    "name": [{
+                        "family": ["UUUUUUUUUUUUUUU"],
+                        "given": ["PPPPPPPPPPP", "KKKKKKKKKKK"]
+                    }],
+                    "gender": {
+                        "coding": [{
+                            "system": "http://hl7.org/fhir/v3/AdministrativeGender",
+                            "code": "M",
+                            "display": "male",
+                            "primary": true
+                        }],
+                        "text": "male"
+                    },
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+    Family Name: <input type="text" id="family"/><button onclick="search($('#family').val())">Search</button>
+    <button onclick="create()">Create</button>
+    <table id="patients"></table>
+</body>
+</html>
