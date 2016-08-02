@@ -1,0 +1,7 @@
+title Update HFR with DHIS2 UID
+
+HFR->DHIS2: push/create new facility
+DHIS2->DHIS2: import facility in background import process
+HFR->DHIS2: request list of facilities with HF ID and DHIS2 UID
+DHIS2->HFR: return list of facilities
+HFR->HFR: add DHIS2 UID to HFR so that DHIS2 UID\n can be looked up for reporting 
