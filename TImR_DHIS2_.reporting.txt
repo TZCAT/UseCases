@@ -1,0 +1,22 @@
+title Immunization Report from TiMR to DHIS2
+participant IL
+participant TImR
+participant DHIS2
+
+
+IL->TImR: requests all the immunizations by CVX code deliveruuesed\nin one month for each facility
+TImR->IL: send back all immunizations adminstered
+IL->TS: requests value set mapping from CVX code\nto DHIS2 data element UID
+TS->IL: returns back CVX->DHIS2 code mapping
+loop CVX codes
+IL->IL: replace CVX code with DHIS2 Data Element UID
+end
+IL->IL: count all immunizations by facility and produce\nreport format for DHIS2
+IL->IL:  create monthly report of number\n of children immunized by facility
+
+loop over facilities in report
+IL->HFR: lookup DHIS2 UID or UUID from Facility ID
+HFR->IL: returns the DHIS2 UID/ UUID
+IL->IL: replace facility ID with DHIS2 UUID/UIDs
+end
+IL->DHIS2: send data 
