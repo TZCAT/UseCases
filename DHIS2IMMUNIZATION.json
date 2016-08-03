@@ -18,37 +18,28 @@
         "system": "http://hl7.org/fhir/sid/cvx",
         "concept": [
           {
-            "code": "19"
+            "code": "Q2fFmlGkxRN"
           },
           {
-            "code": "102"
+            "code": "VPH0M4oc6bs"
           },
           {
-            "code": "122"
+            "code": "JXJ6K85BwHb"
           },
           {
-            "code": "03"
+            "code": "communit009"
           },
           {
-            "code": "05"
+            "code":"O9HZJ5frgiJ"
           },
           {
-            "code": "112"
+            "code":"hO9LkFt8n2p"
           },
           {
-            "code":"137"
+            "code":"D34hFrwiUpq"
           },
           {
-            "code":"37"
-          },
-          {
-            "code":"45"
-          },
-          {
-            "code":"133"
-          },
-          {
-            "code":"02"
+            "code":"dhZIhHwaWUX"
           }
         ]
       }
