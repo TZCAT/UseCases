@@ -1,0 +1,72 @@
+{
+  "resourceType": "ValueSet",
+  "id": "cvx-tz",
+  "meta": {
+    "lastUpdated": "2016-08-03T11:59:03.495+03:00"
+  },
+  "url": "http://hl7.org/fhir/ValueSet/cvx-tz",
+  "version": "1.0.0",
+  "name": "CVX Tanzania Codes",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+  "date": "2015-10-24T07:41:03+11:00",
+  "description": "This value set defines the set of codes that are used in Tanzania for Vaccination.",
+  "compose": {
+    "include": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "concept": [
+          {
+            "code": "28",
+	    "display": "DT"
+          },
+          {
+            "code": "19",
+	    "display": "BCG"
+          },
+          {
+            "code": "102",
+	    "display": "DTP-Hib-Hep B"
+          },
+          {
+            "code": "122"
+	    ,"display": "rotavirus"
+          },
+          {
+            "code": "04"
+	    ,"display": "Measles Rubella"
+          },
+          {
+            "code": "05"
+	    ,"display": "measles"
+          },
+          {
+            "code": "112"
+	    ,"display": "tetanus"
+          },
+          {
+            "code":"137",
+	    "display": "HPV"
+          },
+          {
+            "code":"37"
+	    ,"display": "yellow fever"
+          },
+          {
+            "code":"45"
+	    ,"display": "Hep B"
+          },
+          {
+            "code":"133"
+	    ,"display": "PCV 13"
+          },
+          {
+            "code":"02"
+	    ,"display": "OPV"
+          }
+        ]
+      }
+    ]
+  }
+}

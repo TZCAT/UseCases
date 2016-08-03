@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script type="text/javascript" src="jquery-1.12.4.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.getJSON('http://fhirtest.uhn.ca/baseDstu3/ValueSet/cvx-tz?_format=json',
+                function (data) {
+                    var tableData = "";
+                    for (var code in data.compose.include[0].concept)
+                        tableData += "<option value='" + data.compose.include[0].concept[code].code + "'>" + data.compose.include[0].concept[code].display + "</td></tr>";
+
+                    $('#codes').html(tableData);
+                });
+        });
+    </script>
+</head>
+<body>
+    Select a Code: 
+    <select id="codes" name="codes"></select>
+</body>
+</html>

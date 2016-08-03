@@ -1,0 +1,181 @@
+oid,url,name,Mnemonic,Name,LanguageCode
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,37,yellow fever vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,37,yellow fever,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,69,parainfluenza-3,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,69,parainfluenza-3 virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,34,rabies immune globulin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,34,RIG,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,73,Rift Valley fever vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,73,Rift Valley fever,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,92,"Venezuelan equine encephalitis vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,92,"VEE, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,70,Q fever vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,70,Q fever,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,17,"Haemophilus influenzae type b vaccine, conjugate unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,17,"Hib, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,68,melanoma,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,68,melanoma vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,6,rubella virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,6,rubella,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,84,"Hep A, ped/adol, 3 dose",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,84,"hepatitis A vaccine, pediatric/adolescent dosage, 3 dose schedule",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,5,measles virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,5,measles,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,21,varicella,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,21,varicella virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,108,"meningococcal ACWY, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,108,"meningococcal ACWY vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,60,herpes simplex 2,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,60,"herpes simplex virus, type 2 vaccine",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,109,"pneumococcal vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,109,"pneumococcal, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,98,"TST, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,98,tuberculin skin test; unspecified formulation,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,148,Meningococcal C/Y-HIB PRP,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,148,Meningococcal Groups C and Y and Haemophilus b Tetanus Toxoid Conjugate Vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,165,Human Papillomavirus 9-valent vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,165,HPV9,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,11,pertussis vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,11,pertussis,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,57,hantavirus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,57,hantavirus,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,36,varicella zoster immune globulin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,36,VZIG,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,121,"zoster vaccine, live",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,121,zoster,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,130,DTaP-IPV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,130,"Diphtheria, tetanus toxoids and acellular pertussis vaccine, and poliovirus vaccine, inactivated",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,129,"Japanese Encephalitis vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,129,"Japanese Encephalitis, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,29,"cytomegalovirus immune globulin, intravenous",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,29,CMVIG,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,24,anthrax vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,24,anthrax,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,115,"tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,115,Tdap,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,4,M/R,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,4,measles and rubella virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,28,DT (pediatric),en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,28,"diphtheria and tetanus toxoids, adsorbed for pediatric use",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,2,OPV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,2,"poliovirus vaccine, live, oral",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,39,Japanese encephalitis SC,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,39,Japanese Encephalitis Vaccine SC,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,61,human immunodeficiency virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,61,HIV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,63,Junin virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,63,Junin virus,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,7,mumps virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,7,mumps,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,83,"hepatitis A vaccine, pediatric/adolescent dosage, 2 dose schedule",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,83,"Hep A, ped/adol, 2 dose",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,20,"diphtheria, tetanus toxoids and acellular pertussis vaccine",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,20,DTaP,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,85,"hepatitis A vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,85,"Hep A, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,154,"Hep A, IG",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,154,Hepatitis A immune globulin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,30,hepatitis B immune globulin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,30,HBIG,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,14,"IG, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,14,"immune globulin, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,122,"rotavirus vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,122,"rotavirus, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,78,tularemia vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,78,tularemia vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,76,Staphylococcus bacteriophage lysate,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,76,Staphylococcus bacterio lysate,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,146,"DTaP,IPV,Hib,HepB",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,146,"Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate), and Hepatitis B (Recombinant) Vaccine.",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,19,Bacillus Calmette-Guerin vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,19,BCG,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,998,no vaccine administered,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,998,no vaccine administered,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,82,"adenovirus vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,82,"adenovirus, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,12,diphtheria antitoxin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,12,diphtheria antitoxin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,110,DTaP-Hep B-IPV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,110,DTaP-hepatitis B and poliovirus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,23,plague vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,23,plague,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,59,hepatitis E vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,59,Hep E,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,88,"influenza, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,88,"influenza virus vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,102,DTP-Hib-Hep B,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,102,DTP- Haemophilus influenzae type b conjugate and hepatitis b vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,156,Rho(D) Immune globulin- IV or IM,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,156,Rho(D)-IG,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,22,DTP-Hib,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,22,DTP-Haemophilus influenzae type b conjugate vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,13,tetanus immune globulin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,13,TIG,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,1,DTP,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,1,"diphtheria, tetanus toxoids and pertussis vaccine",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,75,vaccinia (smallpox),en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,75,vaccinia (smallpox) vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,120,DTaP-Hib-IPV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,120,"diphtheria, tetanus toxoids and acellular pertussis vaccine, Haemophilus influenzae type b conjugate, and poliovirus vaccine, inactivated (DTaP-Hib-IPV)",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,152,"Pneumococcal Conjugate, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,152,"Pneumococcal Conjugate, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,67,malaria vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,67,malaria,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,145,RSV-MAb (new),en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,145,"respiratory syncytial virus monoclonal antibody (motavizumab), intramuscular",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,117,VZIG (IND),en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,117,varicella zoster immune globulin (Investigational New Drug),en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,56,dengue fever,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,56,dengue fever vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,159,Rho(D) - Unspecified formulation,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,159,Rho(D) Unspecified formulation,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,71,RSV-IGIV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,71,"respiratory syncytial virus immune globulin, intravenous",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,3,MMR,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,3,"measles, mumps and rubella virus vaccine",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,50,DTaP-Haemophilus influenzae type b conjugate vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,50,DTaP-Hib,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,58,hepatitis C vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,58,Hep C,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,135,"influenza, high dose seasonal, preservative-free",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,135,"Influenza, high dose seasonal",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,93,RSV-MAb,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,93,"respiratory syncytial virus monoclonal antibody (palivizumab), intramuscular",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,64,leishmaniasis vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,64,leishmaniasis,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,147,"Meningococcal, MCV4, unspecified conjugate formulation(groups A, C, Y and W-135)",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,147,"meningococcal MCV4, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,65,leprosy,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,65,leprosy vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,38,rubella and mumps virus vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,38,rubella/mumps,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,10,IPV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,10,"poliovirus vaccine, inactivated",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,72,rheumatic fever,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,72,rheumatic fever vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,90,"rabies vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,90,"rabies, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,66,Lyme disease vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,66,Lyme disease,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,127,Novel influenza-H1N1-09,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,127,"Novel influenza-H1N1-09, injectable",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,27,botulinum antitoxin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,27,botulinum antitoxin,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,45,"hepatitis B vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,45,"Hep B, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,26,"cholera vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,26,"cholera, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,104,hepatitis A and hepatitis B vaccine,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,104,Hep A-Hep B,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,94,MMRV,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,94,"measles, mumps, rubella, and varicella virus vaccine",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,133,Pneumococcal conjugate PCV 13,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,133,"pneumococcal conjugate vaccine, 13 valent",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,112,"tetanus toxoid, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,112,"tetanus toxoid, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,91,"typhoid, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,91,"typhoid vaccine, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,137,"HPV, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,137,"HPV, unspecified formulation",en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,77,tick-borne encephalitis,en
+2.16.840.1.113883.3.88.12.80.22,http://hl7.org/fhir/sid/cvx,HL7 CVX Codes,77,tick-borne encephalitis vaccine,en
