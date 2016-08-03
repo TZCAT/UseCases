@@ -1,0 +1,10 @@
+CDC CVX codes
+  http://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=cvx
+CVX codes in FHIR
+  https://www.hl7.org/fhir/cvx.html
+FHIR Value Set 
+  http://hl7.org/fhir/valueset.html
+Example Value Sets
+  https://www.hl7.org/fhir/valueset-marital-status.json.html
+  http://hl7.org/fhir/valueset-example.html
+
