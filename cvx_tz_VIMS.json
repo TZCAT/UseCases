@@ -1,0 +1,90 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "CVXTZ-VIMS",
+  "url": "http://hl7.org/fhir/ConceptMap/CVXTZ-VIMS",
+  "version": "1.0.0",
+  "name": "CVX for Tanzania to VIMS Mapping",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "VIMS TZ CAT team",
+  "date": "2016-08-03",
+  "description": "A mapping between the CVX for Tanzania and VIMS",
+  "sourceReference": {
+    "reference": "http://fhirtest.uhn.ca/baseDstu3/ValueSet/vims-product-list-vaccine"
+  },
+  "targetReference": {
+    "reference": "http://fhirtest.uhn.ca/baseDstu3/ValueSet/cvx-tz"
+  },
+  "group": [
+    {
+      "source": "http://vims.moh.co.tz/productList/vaccine",
+      "target": "http://hl7.org/fhir/ValueSet/cvx-tz",
+      "element": [
+        {
+          "code": "V004",
+          "target": [
+            {
+              "code": "133"
+            }
+          ]
+        },
+        {
+          "code": "V005",
+          "target": [
+            {
+              "code": "122"
+            }
+          ]
+        },
+        {
+          "code": "V020",
+          "target": [
+            {
+              "code": "04"
+            }
+          ]
+        },
+        {
+          "code": "V007",
+          "target": [
+            {
+              "code": "112"
+            }
+          ]
+        },
+        {
+          "code": "V016",
+          "target": [
+            {
+              "code": "37"
+            }
+          ]
+        },
+        {
+          "code": "V009",
+          "target": [
+            {
+              "code": "45"
+            }
+          ]
+        },
+        {
+          "code": "V004",
+          "target": [
+            {
+              "code": "133"
+            }
+          ]
+        },
+        {
+          "code": "V002",
+          "target": [
+            {
+              "code": "02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
