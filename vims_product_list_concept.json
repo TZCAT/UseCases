@@ -1,6 +1,6 @@
 {
   "resourceType": "CodeSystem",
-  "id": "vims-productList",
+  "id": "vims-product-list",
  
   "url": "http://vims.moh.go.tz/productList",
  
@@ -282,10 +282,6 @@
     {
       "code": "10010163AB",
       "display": "3TC/AZT"
-    },
-    {
-      "code": "10060070MD",
-      "display": "Lignocaine"
     },
     {
       "code": "10010020MD",
