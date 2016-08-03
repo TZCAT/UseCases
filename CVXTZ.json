@@ -18,6 +18,10 @@
         "system": "http://hl7.org/fhir/sid/cvx",
         "concept": [
           {
+            "code": "28",
+	    "display": "DT"
+          },
+          {
             "code": "19",
 	    "display": "BCG"
           },
