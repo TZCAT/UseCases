@@ -1,0 +1,1516 @@
+{
+  "resourceType": "CodeSystem",
+  "id": "vims-dataElements",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/codesystem-shareable-definition"
+    ]
+  },
+ 
+  "url": "http://hl7.org/fhir/CodeSystem/vims.moh.go.tz/productList",
+ 
+  "version": "1.0.0",
+  "name": "VIMS dataElements",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+
+  "date": "2016-08-03",
+  "description": " This is a codeSystem for VIMS",
+  "caseSensitive": true,
+  "content": "complete",
+  "concept":[
+    {
+      "code": "V016",
+      "display": "YF"
+    },
+    {
+      "code": "V0010",
+      "display": "Diluent for BCG"
+    },
+    {
+      "code": "V020",
+      "display": "MR"
+    },
+    {
+      "code": "V006",
+      "display": "Measles"
+    },
+    {
+      "code": "V005",
+      "display": "Rota"
+    },
+    {
+      "code": "V007",
+      "display": "TT"
+    },
+    {
+      "code": "10010170BE",
+      "display": "Artemether/Lumefantrine (Bluu 2 x 6)"
+    },
+    {
+      "code": "10060016MD",
+      "display": "Ceftriaxone powder"
+    },
+    {
+      "code": "10060070MD",
+      "display": "Lignocaine"
+    },
+    {
+      "code": "10010014MD",
+      "display": "Chlorpheniramine"
+    },
+    {
+      "code": "10010140AB",
+      "display": "AZT/3TC"
+    },
+    {
+      "code": "10018461",
+      "display": "RHZE"
+    },
+    {
+      "code": "40100045MD",
+      "display": "Vaccutainer Needles 21G X 1.5"
+    },
+    {
+      "code": "10018331",
+      "display": "PB (Adult)"
+    },
+    {
+      "code": "10010144AB",
+      "display": "Abacavir"
+    },
+    {
+      "code": "10011341",
+      "display": "RH"
+    },
+    {
+      "code": "40040017MD",
+      "display": "Hemocue Blood Glucose (201)Cuvettes"
+    },
+    {
+      "code": "10018460",
+      "display": "RH"
+    },
+    {
+      "code": "10010161AB",
+      "display": "LPV/r"
+    },
+    {
+      "code": "20110034MD",
+      "display": "Fomu tupu ya maombi- 2C"
+    },
+    {
+      "code": "40030001MD",
+      "display": "Sulphuric Acid 95 - 97%"
+    },
+    {
+      "code": "10010156AB",
+      "display": "3TC/AZT/NVP"
+    },
+    {
+      "code": "10018333",
+      "display": "PB (Peds)"
+    },
+    {
+      "code": "10010022MD",
+      "display": "Diclofenac"
+    },
+    {
+      "code": "10010160AB",
+      "display": "Lamivil S (3TC/D4T)"
+    },
+    {
+      "code": "V018",
+      "display": "Vit. A 100000 IU"
+    },
+    {
+      "code": "40090016AB",
+      "display": "Nutrient Broth No 02"
+    },
+    {
+      "code": "10010150AB",
+      "display": "Saquinavir"
+    },
+    {
+      "code": "V019",
+      "display": "Vit. A 200000 IU"
+    },
+    {
+      "code": "40040017MD",
+      "display": "Hemocue Blood Glucose (201)Cuvettes"
+    },
+    {
+      "code": "10060016MD",
+      "display": "Ceftriaxone powder"
+    },
+    {
+      "code": "10010141AB",
+      "display": "Lamivudine"
+    },
+    {
+      "code": "10010161AB",
+      "display": "LPV/r"
+    },
+    {
+      "code": "10040025AB",
+      "display": "Nevirapine"
+    },
+    {
+      "code": "40090178MD",
+      "display": "Pregnancy Test Strips"
+    },
+    {
+      "code": "40050009MD",
+      "display": "Glycerol Analar. Min Assay 99.5%"
+    },
+    {
+      "code": "20010014MD",
+      "display": "Catgut Chromic  2, 75cm,1/2 circ, hvy tapercut, 35mm"
+    },
+    {
+      "code": "40090172MD",
+      "display": "Pipetting Tips Yellow"
+    },
+    {
+      "code": "1001035460",
+      "display": "Abacavir/Lamivudine"
+    },
+    {
+      "code": "10050029AB",
+      "display": "Acyclovir cream 5%"
+    },
+    {
+      "code": "10010162AB",
+      "display": "Atazanavir Sulphate Capsules"
+    },
+    {
+      "code": "10010207AB",
+      "display": "Acyclovir"
+    },
+    {
+      "code": "40100073AB",
+      "display": "Facs Count Printing Paper"
+    },
+    {
+      "code": "20307233MD",
+      "display": "Methylene Blue"
+    },
+    {
+      "code": "20307206MD",
+      "display": "Gram's Iodine"
+    },
+    {
+      "code": "40090194MD",
+      "display": "TEST TUBE 100X13MM"
+    },
+    {
+      "code": "40030065MD",
+      "display": "Blood Bag Double 450Ml"
+    },
+    {
+      "code": "20020015MD",
+      "display": "Industrial gloves"
+    },
+    {
+      "code": "40100029MD",
+      "display": "COUNTER HAND TALLY"
+    },
+    {
+      "code": "40080019MD",
+      "display": "SGPT Kit 4+1"
+    },
+    {
+      "code": "40080020AB",
+      "display": "Creatinine Reagent Jaffe"
+    },
+    {
+      "code": "20030055MD",
+      "display": "Automatic Retractable Syringe (Vanish)"
+    },
+    {
+      "code": "20030004MD",
+      "display": "Syringe Disposable With Needle 10cc"
+    },
+    {
+      "code": "20010037MD",
+      "display": "Umbilical Cotton Tape 3mm roll 100m"
+    },
+    {
+      "code": "20030054MD",
+      "display": "Retractable Syringe 5ml"
+    },
+    {
+      "code": "40050010MD",
+      "display": "GENTAMYCIN SENSITIVITY DISCS 10MCG"
+    },
+    {
+      "code": "40050006MD",
+      "display": "Methicillin Sensitivity Discs"
+    },
+    {
+      "code": "40090159MD",
+      "display": "BOTTLE REAGENTS   250 MLS"
+    },
+    {
+      "code": "40030001MD",
+      "display": "Sulphuric Acid 95 - 97%"
+    },
+    {
+      "code": "40070037AB",
+      "display": "Micro Pipette 20 - 200Ul(Eppendof Pipette)"
+    },
+    {
+      "code": "20297070MD",
+      "display": "Crystal violet"
+    },
+    {
+      "code": "40100045MD",
+      "display": "Vaccutainer Needles 21G X 1.5"
+    },
+    {
+      "code": "20110044MD",
+      "display": "Silver nitrate  single use stick"
+    },
+    {
+      "code": "40030063MD",
+      "display": "Counter Differential Blood Cells"
+    },
+    {
+      "code": "10010166AB",
+      "display": "TDF/3TC"
+    },
+    {
+      "code": "10040010MD",
+      "display": "Amoxicillin suspension"
+    },
+    {
+      "code": "10010163AB",
+      "display": "3TC/AZT"
+    },
+    {
+      "code": "10060070MD",
+      "display": "Lignocaine"
+    },
+    {
+      "code": "10010020MD",
+      "display": "Co-trimoxazole"
+    },
+    {
+      "code": "10060013MD",
+      "display": "Benzathine Penicillin Fortified"
+    },
+    {
+      "code": "10060014MD",
+      "display": "Benzyl Penicillin"
+    },
+    {
+      "code": "10060017MD",
+      "display": "Chloramphenicol"
+    },
+    {
+      "code": "10010059MD",
+      "display": "Ciprofloxacin"
+    },
+    {
+      "code": "10040015MD",
+      "display": "Co-trimoxazole"
+    },
+    {
+      "code": "10060046MD",
+      "display": "Procaine Penicillin Fortified"
+    },
+    {
+      "code": "10060076MD",
+      "display": "Spectinomycin  inj."
+    },
+    {
+      "code": "10010003MD",
+      "display": "Albendazole"
+    },
+    {
+      "code": "10010169BE",
+      "display": "Artemether/Lumefantrine (Njano 1 x 6)"
+    },
+    {
+      "code": "10010171BE",
+      "display": "Artemether/Lumefantrine (Kijani 4 x 6)"
+    },
+    {
+      "code": "10060237MD",
+      "display": "Artesunate Injection"
+    },
+    {
+      "code": "10060048MD",
+      "display": "Quinine  inj"
+    },
+    {
+      "code": "10010054MD",
+      "display": "Quinine Tabs"
+    },
+    {
+      "code": "10010120BE",
+      "display": "Sulphadoxine+Pyrimethamine Tabs"
+    },
+    {
+      "code": "10010055MD",
+      "display": "Salbutamol"
+    },
+    {
+      "code": "10010025MD",
+      "display": "Ephedrine"
+    },
+    {
+      "code": "10010016MD",
+      "display": "Chlorpromazine"
+    },
+    {
+      "code": "10060024MD",
+      "display": "Diazepam"
+    },
+    {
+      "code": "10010045MD",
+      "display": "Phenobarbital"
+    },
+    {
+      "code": "10010048MD",
+      "display": "Phenytoin"
+    },
+    {
+      "code": "10010106MD",
+      "display": "Combined Oral contraceptives (Microgynon)"
+    },
+    {
+      "code": "40030134AC",
+      "display": "Copper T IUD"
+    },
+    {
+      "code": "20020014AC",
+      "display": "Male condoms"
+    },
+    {
+      "code": "10060079AC",
+      "display": "Medroxyprogesterone acetate (Depo-Provera)"
+    },
+    {
+      "code": "10010194AC",
+      "display": "Implanon  implant"
+    },
+    {
+      "code": "10070005MD",
+      "display": "Cresol saponated (Lysol)"
+    },
+    {
+      "code": "10070007MD",
+      "display": "Methylated spirit"
+    },
+    {
+      "code": "10010034MD",
+      "display": "Hyoscine-N-butylbromide"
+    },
+    {
+      "code": "10060044MD",
+      "display": "Oxytocine inj"
+    },
+    {
+      "code": "V017",
+      "display": "HPV"
+    },
+    {
+      "code": "10010140AB",
+      "display": "AZT/3TC"
+    },
+    {
+      "code": "10010136AB",
+      "display": "Efavirenz"
+    },
+    {
+      "code": "10020008MD",
+      "display": "Dextrose"
+    },
+    {
+      "code": "10020010MD",
+      "display": "Sodium chloride"
+    },
+    {
+      "code": "10060052MD",
+      "display": "Water for injection"
+    },
+    {
+      "code": "20050010MD",
+      "display": "Bandage hospital quality"
+    },
+    {
+      "code": "20010009MD",
+      "display": "Catgut chromic   0, 75 cm, i/2 circ RB 40mm"
+    },
+    {
+      "code": "20050014MD",
+      "display": "Gauze absorbent BPC 90cm x 100m"
+    },
+    {
+      "code": "20020002MD",
+      "display": "Gloves examination latex non-sterile disposable Medium"
+    },
+    {
+      "code": "20020005MD",
+      "display": "Gloves surgical latex rubber sterile"
+    },
+    {
+      "code": "20020006MD",
+      "display": "Gloves Surgical Latex Rubber Sterile"
+    },
+    {
+      "code": "20030018MD",
+      "display": "I.V. canula"
+    },
+    {
+      "code": "20050019MD",
+      "display": "Plaster zinc oxide (2.5cm x 5m)"
+    },
+    {
+      "code": "20130008MD",
+      "display": "Safety Box For Used Syringe"
+    },
+    {
+      "code": "20130012MD",
+      "display": "Safety Boxes For Disposable Used Syringes 5 Litre"
+    },
+    {
+      "code": "40010002MD",
+      "display": "Acetone Analar"
+    },
+    {
+      "code": "40020012MD",
+      "display": "Applicator Stick Wooden"
+    },
+    {
+      "code": "40030036MD",
+      "display": "Buffer Tablets pH 7.4"
+    },
+    {
+      "code": "40090061MD",
+      "display": "Cover Slips 22x22mm"
+    },
+    {
+      "code": "40090061MD",
+      "display": "Cover Slips 22x22mm"
+    },
+    {
+      "code": "40070030BE",
+      "display": "Malaria RDT"
+    },
+    {
+      "code": "40030080MD",
+      "display": "Phenol Crystals"
+    },
+    {
+      "code": "40070013AB",
+      "display": "Unigold H. I. V 1/2"
+    },
+    {
+      "code": "20110048MD",
+      "display": "OPD cards"
+    },
+    {
+      "code": "20110084MD",
+      "display": "Patient register"
+    },
+    {
+      "code": "20110028MD",
+      "display": "Prescription form A5"
+    },
+    {
+      "code": "10010044MD",
+      "display": "Paracetamol"
+    },
+    {
+      "code": "40030004MD",
+      "display": "Absolute Alchohol    99.8%"
+    },
+    {
+      "code": "10010156AB",
+      "display": "3TC/AZT/NVP"
+    },
+    {
+      "code": "10010137AB",
+      "display": "Efavirenz"
+    },
+    {
+      "code": "10060090AB",
+      "display": "Acyclovir"
+    },
+    {
+      "code": "40090112MD",
+      "display": "Vaccum tube Holders"
+    },
+    {
+      "code": "10010058AB",
+      "display": "Ciprofloxacin"
+    },
+    {
+      "code": "10040026AB",
+      "display": "3TC/AZT/NVP"
+    },
+    {
+      "code": "40030065MD",
+      "display": "Blood Bag Double 450Ml"
+    },
+    {
+      "code": "40100002MD",
+      "display": "Test Tube  50X  6Mm"
+    },
+    {
+      "code": "40100002MD",
+      "display": "Test Tube  50X  6Mm"
+    },
+    {
+      "code": "40080021MD",
+      "display": "Glucose Reagent"
+    },
+    {
+      "code": "40080022MD",
+      "display": "Glucose Standard 100mg/dl"
+    },
+    {
+      "code": "10010124AB",
+      "display": "Fluconazole"
+    },
+    {
+      "code": "10010102AB",
+      "display": "Acyclovir"
+    },
+    {
+      "code": "20010034MD",
+      "display": "Silk Braided 1/0, 75cm, 3/8 circ, reverse cutting 45mm"
+    },
+    {
+      "code": "20030005MD",
+      "display": "Syringe disposable with needle 2cc"
+    },
+    {
+      "code": "20030040MD",
+      "display": "Retractable Syringe 3ml"
+    },
+    {
+      "code": "20030027MD",
+      "display": "Scalp vein set 23 G"
+    },
+    {
+      "code": "20070016MD",
+      "display": "Scalpel blade size 10"
+    },
+    {
+      "code": "20070008MD",
+      "display": "Slide Forceps"
+    },
+    {
+      "code": "40090205MD",
+      "display": "Vaccum Tube EDTA"
+    },
+    {
+      "code": "10010132AB",
+      "display": "Clindamycin"
+    },
+    {
+      "code": "10010195AB",
+      "display": "Co-trimoxazole"
+    },
+    {
+      "code": "20030039MD",
+      "display": "Syringe Auto Disable 10ml"
+    },
+    {
+      "code": "20030038MD",
+      "display": "Syringe Auto Disable 2ml"
+    },
+    {
+      "code": "20030037MD",
+      "display": "Syringe Auto Disable 5ml"
+    },
+    {
+      "code": "10040020AB",
+      "display": "Co-trimoxazole Susp"
+    },
+    {
+      "code": "10010134AB",
+      "display": "Clindamycin"
+    },
+    {
+      "code": "10010070AB",
+      "display": "Folinic Acid"
+    },
+    {
+      "code": "10060107AB",
+      "display": "Fluconazole Injection Vial"
+    },
+    {
+      "code": "20110069AB",
+      "display": "Form A1: Daily dispensing register for ARVs"
+    },
+    {
+      "code": "20110071AB",
+      "display": "Form A2: Report and request form for ARVS"
+    },
+    {
+      "code": "20110072AB",
+      "display": "Form A3: Refilling site monthly ARVS consumption form"
+    },
+    {
+      "code": "40030017",
+      "display": "Cover Slips 22X22mm"
+    },
+    {
+      "code": "10010142AB",
+      "display": "Stavudine"
+    },
+    {
+      "code": "10010151AB",
+      "display": "3TC/d4T/NVP(Junior)"
+    },
+    {
+      "code": "10040023AB",
+      "display": "Zidovudine"
+    },
+    {
+      "code": "10010210AB",
+      "display": "3TC/d4T/NVP(Baby)"
+    },
+    {
+      "code": "10010158AB",
+      "display": "TDF/FTC"
+    },
+    {
+      "code": "10010165AB",
+      "display": "3TC/d4T"
+    },
+    {
+      "code": "10010147AB",
+      "display": "Efavirenz"
+    },
+    {
+      "code": "10010159AB",
+      "display": "Tenofovir"
+    },
+    {
+      "code": "10010144AB",
+      "display": "Abacavir"
+    },
+    {
+      "code": "10010209AB",
+      "display": "Ritonavir"
+    },
+    {
+      "code": "10010014MD",
+      "display": "Chlorpheniramine"
+    },
+    {
+      "code": "10050013MD",
+      "display": "Chloramphenicol"
+    },
+    {
+      "code": "10060013MD",
+      "display": "Benzathine Penicillin Fortified"
+    },
+    {
+      "code": "10040015MD",
+      "display": "Co-trimoxazole"
+    },
+    {
+      "code": "10010024MD",
+      "display": "Doxycycline"
+    },
+    {
+      "code": "10010026MD",
+      "display": "Erythromycin"
+    },
+    {
+      "code": "10010040MD",
+      "display": "Metronidazole"
+    },
+    {
+      "code": "10010047MD",
+      "display": "Phenoxymethyl Penicillin"
+    },
+    {
+      "code": "10050014MD",
+      "display": "Clotrimazole"
+    },
+    {
+      "code": "10010108MD",
+      "display": "Progestin only pill (Microval)"
+    },
+    {
+      "code": "10050014MD",
+      "display": "Clotrimazole"
+    },
+    {
+      "code": "10010027MD",
+      "display": "Ferrous sulphate+Folic acid"
+    },
+    {
+      "code": "10010028MD",
+      "display": "Folic acid"
+    },
+    {
+      "code": "10010129AC",
+      "display": "Zinc Sulphate"
+    },
+    {
+      "code": "10010036MD",
+      "display": "Magnesium Trisilicate BPC"
+    },
+    {
+      "code": "10070007MD",
+      "display": "Methylated spirit"
+    },
+    {
+      "code": "10070009MD",
+      "display": "Povidone iodine"
+    },
+    {
+      "code": "10060028MD",
+      "display": "Ergometrine inj."
+    },
+    {
+      "code": "10010139AB",
+      "display": "Lamivudine"
+    },
+    {
+      "code": "10040021MD",
+      "display": "Nevirapine"
+    },
+    {
+      "code": "10010164AB",
+      "display": "TDF/3TC/EFV"
+    },
+    {
+      "code": "10010164AB",
+      "display": "TDF/3TC/EFV"
+    },
+    {
+      "code": "20020002MD",
+      "display": "Gloves examination latex non-sterile disposable Medium"
+    },
+    {
+      "code": "20030017MD",
+      "display": "I.V. canula"
+    },
+    {
+      "code": "40030051MD",
+      "display": "Buffer Tablet pH 6.8 - Containing Phosphate"
+    },
+    {
+      "code": "40030037MD",
+      "display": "Crystal Violet"
+    },
+    {
+      "code": "40070020AB",
+      "display": "Determine HIV 1&2 with Chase buffer"
+    },
+    {
+      "code": "40070020AB",
+      "display": "Determine HIV 1&2 with Chase buffer"
+    },
+    {
+      "code": "40070033AB",
+      "display": "DBS"
+    },
+    {
+      "code": "40030014MD",
+      "display": "Field Stain B"
+    },
+    {
+      "code": "40030013MD",
+      "display": "Field Stain A"
+    },
+    {
+      "code": "40030052MD",
+      "display": "Formalin Analar 40% (Analar Formaldehyde Solution)"
+    },
+    {
+      "code": "40030043MD",
+      "display": "Fuschin Basic"
+    },
+    {
+      "code": "20110094MD",
+      "display": "Pencil Diamond Glass Writing"
+    },
+    {
+      "code": "40060002MD",
+      "display": "Glucose in Urine Strips (Clinistix Strips)"
+    },
+    {
+      "code": "40030054MD",
+      "display": "Glycerine"
+    },
+    {
+      "code": "40030016MD",
+      "display": "Leishaman Stain"
+    },
+    {
+      "code": "40080006MD",
+      "display": "PIMA"
+    },
+    {
+      "code": "40090109MD",
+      "display": "Bead Standard"
+    },
+    {
+      "code": "40070009MD",
+      "display": "Protein In Urine Reagent Strip (Albustix)."
+    },
+    {
+      "code": "40060004MD",
+      "display": "Urinalysis Strip (Multistix)"
+    },
+    {
+      "code": "40070013AB",
+      "display": "Unigold H. I. V 1/2"
+    },
+    {
+      "code": "20110025MD",
+      "display": "Ante-Natal cards (MCH card No.4)"
+    },
+    {
+      "code": "20110024MD",
+      "display": "Ball point pen"
+    },
+    {
+      "code": "20110029MD",
+      "display": "Daily Dispensing Register Book"
+    },
+    {
+      "code": "20110045MD",
+      "display": "Dispensing envelopes"
+    },
+    {
+      "code": "20110034MD",
+      "display": "Fomu tupu ya maombi- 2C"
+    },
+    {
+      "code": "20110033MD",
+      "display": "Form ya maombi (R & R) - 2A"
+    },
+    {
+      "code": "20110085MD",
+      "display": "Injection register"
+    },
+    {
+      "code": "20110090MD",
+      "display": "Leja ya mali"
+    },
+    {
+      "code": "20110090MD",
+      "display": "Leja ya mali"
+    },
+    {
+      "code": "20110026MD",
+      "display": "MCH growing charts"
+    },
+    {
+      "code": "10060008MD",
+      "display": "Adrenaline"
+    },
+    {
+      "code": "10010154AB",
+      "display": "Didanosine"
+    },
+    {
+      "code": "10010146AB",
+      "display": "Didanosine"
+    },
+    {
+      "code": "10010145AB",
+      "display": "Didanosine"
+    },
+    {
+      "code": "10010153AB",
+      "display": "Didanosine"
+    },
+    {
+      "code": "10055013AB",
+      "display": "Nevirapine"
+    },
+    {
+      "code": "10055003AB",
+      "display": "Lamivudine"
+    },
+    {
+      "code": "10010155AB",
+      "display": "Lamivudine"
+    },
+    {
+      "code": "10040032AB",
+      "display": "Zidovudine"
+    },
+    {
+      "code": "10040022AB",
+      "display": "Lopinavir/Ritonavir"
+    },
+    {
+      "code": "10040024AB",
+      "display": "Zidovudine"
+    },
+    {
+      "code": "10010208AB",
+      "display": "Zidovudine"
+    },
+    {
+      "code": "10055026AB",
+      "display": "Zidovudine"
+    },
+    {
+      "code": "10010227AB",
+      "display": "Lopinavir/ritonavir"
+    },
+    {
+      "code": "10010200AB",
+      "display": "Ciprofloxacin"
+    },
+    {
+      "code": "10010167AB",
+      "display": "Azithromycin"
+    },
+    {
+      "code": "10010127AB",
+      "display": "Co-Amoxiclav"
+    },
+    {
+      "code": "10010101AB",
+      "display": "Co-trimoxazole"
+    },
+    {
+      "code": "10010078AB",
+      "display": "Doxycline"
+    },
+    {
+      "code": "10010035AB",
+      "display": "Ketoconazole"
+    },
+    {
+      "code": "10030004AB",
+      "display": "Miconazole Pessaries"
+    },
+    {
+      "code": "10010116AB",
+      "display": "Neurobion Forte"
+    },
+    {
+      "code": "10040005AB",
+      "display": "Nystatin Oral"
+    },
+    {
+      "code": "40030107AB",
+      "display": "Podophylline Resin Paint BP"
+    },
+    {
+      "code": "10050020AB",
+      "display": "Tetracycline Ophthal. Ointment"
+    },
+    {
+      "code": "10055029AB",
+      "display": "Stavudine"
+    },
+    {
+      "code": "20271536",
+      "display": "HIV Rapid Test Kit  1"
+    },
+    {
+      "code": "40090112MD",
+      "display": "Vaccum tube Holders"
+    },
+    {
+      "code": "40090190MD",
+      "display": "Sodium Citrate"
+    },
+    {
+      "code": "40090158MD",
+      "display": "Microscope Slide 76 X 25 Mm"
+    },
+    {
+      "code": "10010155AB",
+      "display": "Lamivudine"
+    },
+    {
+      "code": "20307233MD",
+      "display": "Methylene Blue"
+    },
+    {
+      "code": "40030041MD",
+      "display": "Buffer Tablets pH 4.0"
+    },
+    {
+      "code": "40090060MD",
+      "display": "BEAKER 50MLS"
+    },
+    {
+      "code": "40030028MD",
+      "display": "Sulphanilic Acid Analar"
+    },
+    {
+      "code": "40090060MD",
+      "display": "BEAKER 50MLS"
+    },
+    {
+      "code": "10050001AB",
+      "display": "Clotrimazole Pessaries"
+    },
+    {
+      "code": "40050007MD",
+      "display": "Ciproflaxin Sensitivity Discs"
+    },
+    {
+      "code": "20297070MD",
+      "display": "Crystal violet"
+    },
+    {
+      "code": "20307206MD",
+      "display": "Gram's Iodine"
+    },
+    {
+      "code": "40030041MD",
+      "display": "Buffer Tablets pH 4.0"
+    },
+    {
+      "code": "40100029MD",
+      "display": "COUNTER HAND TALLY"
+    },
+    {
+      "code": "40100045MD",
+      "display": "Vaccutainer Needles 21G X 1.5"
+    },
+    {
+      "code": "10010149AB",
+      "display": "Stavudine"
+    },
+    {
+      "code": "40090194MD",
+      "display": "TEST TUBE 100X13MM"
+    },
+    {
+      "code": "10050006MD",
+      "display": "Clotrimazole Cream"
+    },
+    {
+      "code": "10050006MD",
+      "display": "Clotrimazole Cream"
+    },
+    {
+      "code": "10055024AB",
+      "display": "Stavudine"
+    },
+    {
+      "code": "10010338AB",
+      "display": "Atazanavir+ Ritonavir"
+    },
+    {
+      "code": "10010157AB",
+      "display": "TDF/FTC/EFV"
+    },
+    {
+      "code": "10020001MD",
+      "display": "Anesthetic Ether"
+    },
+    {
+      "code": "20030012MD",
+      "display": "I.V. giving set"
+    },
+    {
+      "code": "40030028MD",
+      "display": "Sulphanilic Acid Analar"
+    },
+    {
+      "code": "40090044MD",
+      "display": "HAEMOCUE BLOOD HAEMOGLOBIN  (HEMOCUE HB 201+) PHOTOMETER"
+    },
+    {
+      "code": "20030006MD",
+      "display": "Syringe disposable w/needle 5cc"
+    },
+    {
+      "code": "40030001MD",
+      "display": "Sulphuric Acid 95 - 97%"
+    },
+    {
+      "code": "40070038AB",
+      "display": "Rapid Plasma Reagin for Syphilis Antigen Test"
+    },
+    {
+      "code": "10020028AB",
+      "display": "Abacavir"
+    },
+    {
+      "code": "10040003MD",
+      "display": "Erythromycin"
+    },
+    {
+      "code": "10010040MD",
+      "display": "Metronidazole"
+    },
+    {
+      "code": "10010193MD",
+      "display": "Mebendazole"
+    },
+    {
+      "code": "10010005MD",
+      "display": "Aminophylline"
+    },
+    {
+      "code": "10050021MD",
+      "display": "Oxytetracycline Ophthal."
+    },
+    {
+      "code": "10010139AB",
+      "display": "Lamivudine"
+    },
+    {
+      "code": "10040021MD",
+      "display": "Nevirapine"
+    },
+    {
+      "code": "10010138AB",
+      "display": "Nevirapine"
+    },
+    {
+      "code": "10010138AB",
+      "display": "Nevirapine"
+    },
+    {
+      "code": "10010140AB",
+      "display": "AZT/3TC"
+    },
+    {
+      "code": "10010143AB",
+      "display": "Zidovudine"
+    },
+    {
+      "code": "10010136AB",
+      "display": "Efavirenz"
+    },
+    {
+      "code": "40030123MD",
+      "display": "Blood Lancets"
+    },
+    {
+      "code": "40030123MD",
+      "display": "Blood Lancets"
+    },
+    {
+      "code": "20050013MD",
+      "display": "Cotton wool absorbent"
+    },
+    {
+      "code": "20050013MD",
+      "display": "Cotton wool absorbent"
+    },
+    {
+      "code": "20010032MD",
+      "display": "Silk braided 0, 75cm. 3/8 circ R- cut 45mm"
+    },
+    {
+      "code": "40010002MD",
+      "display": "Acetone Analar"
+    },
+    {
+      "code": "40020012MD",
+      "display": "Applicator Stick Wooden"
+    },
+    {
+      "code": "40030037MD",
+      "display": "Crystal Violet"
+    },
+    {
+      "code": "40070020AB",
+      "display": "Determine HIV 1&2 with Chase buffer"
+    },
+    {
+      "code": "40070020AB",
+      "display": "Determine HIV 1&2 with Chase buffer"
+    },
+    {
+      "code": "40070033AB",
+      "display": "DBS"
+    },
+    {
+      "code": "40030015MD",
+      "display": "Giemsa Stain"
+    },
+    {
+      "code": "40030015MD",
+      "display": "Giemsa Stain"
+    },
+    {
+      "code": "40030094MD",
+      "display": "Iodine"
+    },
+    {
+      "code": "40060006MD",
+      "display": "Hemocue Blood Glucose (201)"
+    },
+    {
+      "code": "40060007MD",
+      "display": "Hemocue Blood Haemoglobin (Hb-201)Cuvettes"
+    },
+    {
+      "code": "40060007MD",
+      "display": "Hemocue Blood Haemoglobin (Hb-201)Cuvettes"
+    },
+    {
+      "code": "40030117MD",
+      "display": "Hydrochloric Acid"
+    },
+    {
+      "code": "40030117MD",
+      "display": "Hydrochloric Acid"
+    },
+    {
+      "code": "40070030BE",
+      "display": "Malaria RDT"
+    },
+    {
+      "code": "40030002MD",
+      "display": "Methanol Absolute"
+    },
+    {
+      "code": "40030002MD",
+      "display": "Methanol Absolute"
+    },
+    {
+      "code": "40030020MD",
+      "display": "Methylene Blue"
+    },
+    {
+      "code": "40030020MD",
+      "display": "Methylene Blue"
+    },
+    {
+      "code": "40030046MD",
+      "display": "Neutral Red Powder"
+    },
+    {
+      "code": "40030046MD",
+      "display": "Neutral Red Powder"
+    },
+    {
+      "code": "40030080MD",
+      "display": "Phenol Crystals"
+    },
+    {
+      "code": "40080006MD",
+      "display": "PIMA"
+    },
+    {
+      "code": "40100014MD",
+      "display": "Stool Specimen Container Plastic - Disposable"
+    },
+    {
+      "code": "40070008MD",
+      "display": "SD Bioline Syphillis Test Kits"
+    },
+    {
+      "code": "10040012MD",
+      "display": "Paracetamol"
+    },
+    {
+      "code": "10060073",
+      "display": "1G Ceftriaxone Pdr F Inj."
+    },
+    {
+      "code": "10020028AB",
+      "display": "Abacavir"
+    },
+    {
+      "code": "40030004MD",
+      "display": "Absolute Alchohol    99.8%"
+    },
+    {
+      "code": "40010003",
+      "display": "A- B- O- D- Blood Grouping Reagents- Kit Of Four"
+    },
+    {
+      "code": "10040003MD",
+      "display": "Erythromycin"
+    },
+    {
+      "code": "10050010MD",
+      "display": "ORS for 1 Litre"
+    },
+    {
+      "code": "10050021MD",
+      "display": "Oxytetracycline Ophthal."
+    },
+    {
+      "code": "10070003MD",
+      "display": "Chlorhexidine + cetrimide (Savlon)"
+    },
+    {
+      "code": "10070011MD",
+      "display": "Washing soap"
+    },
+    {
+      "code": "10010143AB",
+      "display": "Zidovudine"
+    },
+    {
+      "code": "40030051MD",
+      "display": "Buffer Tablet pH 6.8 - Containing Phosphate"
+    },
+    {
+      "code": "40070020AB",
+      "display": "Determine HIV 1&2 with Chase buffer"
+    },
+    {
+      "code": "40090047MD",
+      "display": "Oil for Microscope (Oil Immersion)"
+    },
+    {
+      "code": "40100014MD",
+      "display": "Stool Specimen Container Plastic - Disposable"
+    },
+    {
+      "code": "40070008MD",
+      "display": "SD Bioline Syphillis Test Kits"
+    },
+    {
+      "code": "10018461",
+      "display": "RHZE"
+    },
+    {
+      "code": "10010001MD",
+      "display": "Acetylsalicylic acid (aspirin)"
+    },
+    {
+      "code": "10010022MD",
+      "display": "Diclofenac"
+    },
+    {
+      "code": "10040012MD",
+      "display": "Paracetamol"
+    },
+    {
+      "code": "10010020MD",
+      "display": "Co-trimoxazole"
+    },
+    {
+      "code": "10010019MD",
+      "display": "Cloxaciliin"
+    },
+    {
+      "code": "10018534",
+      "display": "RHE"
+    },
+    {
+      "code": "10018460",
+      "display": "RH"
+    },
+    {
+      "code": "10148302",
+      "display": "Streptomycin"
+    },
+    {
+      "code": "10148406",
+      "display": "Water for"
+    },
+    {
+      "code": "10012501",
+      "display": "Ethambutol"
+    },
+    {
+      "code": "10011343",
+      "display": "RHZ"
+    },
+    {
+      "code": "10010002MD",
+      "display": "Artemether/Lumefantrine (Kahawia 3 x 6)"
+    },
+    {
+      "code": "V003",
+      "display": "DTP-HepB-Hib"
+    },
+    {
+      "code": "10011341",
+      "display": "RH"
+    },
+    {
+      "code": "10018332",
+      "display": "MB (Peds)"
+    },
+    {
+      "code": "10018333",
+      "display": "PB (Peds)"
+    },
+    {
+      "code": "10011345",
+      "display": "Isoniazid"
+    },
+    {
+      "code": "10018331",
+      "display": "PB (Adult)"
+    },
+    {
+      "code": "10018330",
+      "display": "MB (Adult)"
+    },
+    {
+      "code": "V008",
+      "display": "Vitamin A"
+    },
+    {
+      "code": "10010007MD",
+      "display": "Amoxycillin"
+    },
+    {
+      "code": "10010007MD",
+      "display": "Amoxycillin"
+    },
+    {
+      "code": "10010007MD",
+      "display": "Amoxycillin"
+    },
+    {
+      "code": "V009",
+      "display": "HepB"
+    },
+    {
+      "code": "V013",
+      "display": "Sdilution_2ml"
+    },
+    {
+      "code": "V014",
+      "display": "Sdilution_5ml"
+    },
+    {
+      "code": "V004",
+      "display": "PCV-13"
+    },
+    {
+      "code": "40010001",
+      "display": "Acetic Acid  Glacial"
+    },
+    {
+      "code": "V015",
+      "display": "Safety boxes"
+    },
+    {
+      "code": "V002",
+      "display": "OPV"
+    },
+    {
+      "code": "ADS_0.05ml",
+      "display": "ADS_0.05ml"
+    },
+    {
+      "code": "V010",
+      "display": "DT"
+    },
+    {
+      "code": "V011",
+      "display": "ADS_0.5ml"
+    },
+    {
+      "code": "V001",
+      "display": "BCG"
+    }
+  ]
+}
