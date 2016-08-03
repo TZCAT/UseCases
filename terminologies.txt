@@ -15,4 +15,7 @@ Concept Map
 
 
 Example FHIR URL:
-http://fhirtest.uhn.ca/baseDstu2/Immunization
+ http://fhirtest.uhn.ca/baseDstu2/Immunization
+
+Installing sample FHIR Server
+	   http://hapifhir.io/doc_jpa.html
