@@ -10,10 +10,10 @@
   "date": "2016-08-03",
   "description": "A mapping between the CVX for Tanzania and VIMS",
   "sourceReference": {
-    "reference": "http://fhirtest.uhn.ca/baseDstu3/ValueSet/vims-product-list-vaccine"
+    "reference": "ValueSet/vims-product-list-vaccine"
   },
   "targetReference": {
-    "reference": "http://fhirtest.uhn.ca/baseDstu3/ValueSet/cvx-tz"
+    "reference": "ValueSet/cvx-tz"
   },
   "group": [
     {
