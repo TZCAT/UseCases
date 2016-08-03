@@ -1,22 +1,17 @@
 {
   "resourceType": "CodeSystem",
-  "id": "vims-dataElements",
-  "meta": {
-    "profile": [
-      "http://hl7.org/fhir/StructureDefinition/codesystem-shareable-definition"
-    ]
-  },
+  "id": "vims-productList",
  
-  "url": "http://hl7.org/fhir/CodeSystem/vims.moh.go.tz/productList",
+  "url": "http://vims.moh.go.tz/productList",
  
   "version": "1.0.0",
-  "name": "VIMS dataElements",
+  "name": "VIMS Product List",
   "status": "draft",
   "experimental": true,
   "publisher": "TZ CAT team",
 
   "date": "2016-08-03",
-  "description": " This is a codeSystem for VIMS",
+  "description": " This is a codeSystem for VIMS Product List",
   "caseSensitive": true,
   "content": "complete",
   "concept":[
