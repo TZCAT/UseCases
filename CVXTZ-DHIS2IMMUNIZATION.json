@@ -1,0 +1,90 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "CVXTZ-DHIS2",
+  "url": "http://hl7.org/fhir/ConceptMap/CVXTZ-DHIS2",
+  "version": "1.0.0",
+  "name": "CVX for Tanzania to DHIS2 Mapping",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+  "date": "2016-08-03",
+  "description": "A mapping between the CVX for Tanzania and DHIS2",
+  "sourceReference": {
+    "reference": "http://hl7.org/fhir/ValueSet/cvx-tz"
+  },
+  "targetReference": {
+    "reference": "http://hl7.org/fhir/ValueSet/dhis2-immunization"
+  },
+  "group": [
+    {
+      "source": "http://hl7.org/fhir/ValueSet/cvx-tz",
+      "target": "http://hl7.org/fhir/ValueSet/dhis2-immunization",
+      "element": [
+        {
+          "code": "19",
+          "target": [
+            {
+              "code": "Q2fFmlGkxRN"
+            }
+          ]
+        },
+        {
+          "code": "122",
+          "target": [
+            {
+              "code": "VPH0M4oc6bs"
+            }
+          ]
+        },
+        {
+          "code": "03",
+          "target": [
+            {
+              "code": "JXJ6K85BwHb"
+            }
+          ]
+        },
+        {
+          "code": "112",
+          "target": [
+            {
+              "code": "communit009"
+            }
+          ]
+        },
+        {
+          "code": "37",
+          "target": [
+            {
+              "code": "O9HZJ5frgiJ"
+            }
+          ]
+        },
+        {
+          "code": "45",
+          "target": [
+            {
+              "code": "hO9LkFt8n2p"
+            }
+          ]
+        },
+        {
+          "code": "133",
+          "target": [
+            {
+              "code": "D34hFrwiUpq"
+            }
+          ]
+        },
+        {
+          "code": "02",
+          "target": [
+            {
+              "code": "dhZIhHwaWUX"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
