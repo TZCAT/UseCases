@@ -1,0 +1,62 @@
+{
+  "resourceType": "ValueSet",
+  "id": "vims-product-list-vaccine",
+  "meta": {
+    "lastUpdated": "2016-08-03T11:59:03.495+03:00"
+  },
+  "url": "http://vims.moh.co.tz/productList/vaccine",
+  "version": "1.0.0",
+  "name": "Vacine Product List Code",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "VIMS TZ CAT team",
+  "date": "2016-08-03T07:41:03+11:00",
+  "description": "This value set defines the set of product codes that are used in Tanzania for the vims system.",
+  "compose": {
+    "include": [
+      {
+        "system": "http://vims.moh.co.tz/productList",
+        "concept": [
+          {
+            "code": "V004"
+          },
+          {
+            "code": "V002"
+          },
+          {
+            "code": "V001"
+	    
+          },
+          {
+            "code": "V016"
+	    
+          },
+          {
+            "code": "V020"
+          },
+          {
+            "code": "V005"
+          },
+          {
+            "code":"V007"
+          },
+          {
+            "code":"V017"
+          },
+          {
+            "code":"V003"
+          },
+          {
+            "code":"V009"
+          },
+          {
+            "code":"V006"
+          },
+          {
+            "code":"V010"
+          }
+        ]
+      }
+    ]
+  }
+}
