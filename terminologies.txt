@@ -7,4 +7,9 @@ FHIR Value Set
 Example Value Sets
   https://www.hl7.org/fhir/valueset-marital-status.json.html
   http://hl7.org/fhir/valueset-example.html
+CodeSystem
+ https://hl7-fhir.github.io/codesystem-example.json.html
+ https://hl7-fhir.github.io/codesystem.html
 
+Example FHIR URL:
+http://fhirtest.uhn.ca/baseDstu2/Immunization
