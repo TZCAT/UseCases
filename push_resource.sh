@@ -1,7 +1,7 @@
 #!/bin/sh
 SERVER=http://fhirtest.uhn.ca/baseDstu3
 
-FILES=("CVXTZ.json")
+FILES=("CVXTZ.json" "vims_product_list_concept.json")
 
 for FILE in "${FILES[@]}"
 do
