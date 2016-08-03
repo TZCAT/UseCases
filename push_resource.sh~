@@ -1,7 +1,7 @@
 #!/bin/bash
 SERVER=http://fhirtest.uhn.ca/baseDstu3
 
-FILES=("CVXTZ.json")
+FILES=("CVXTZ.json" "dhis-dataelements-codesystem.json")
 
 for FILE in "${FILES[@]}"
 do
