@@ -1,7 +1,11 @@
 #!/bin/bash
 SERVER=http://fhirtest.uhn.ca/baseDstu3
 
-FILES=("CVXTZ.json" "dhis-dataelements-codesystem.json")
+<<<<<<< HEAD
+FILES=("DHIS2IMMUNIZATION.json" "vims_product_list_concept.json")
+=======
+FILES=("CVXTZ.json" "vims_product_list_concept.json")
+>>>>>>> f2ebd3f09c6fed35ba1f6114fe831af9ec7d7164
 
 for FILE in "${FILES[@]}"
 do
