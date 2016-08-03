@@ -1,6 +1,6 @@
 {
   "resourceType": "ValueSet",
-  "id": "cvx-tz",
+  "id": "dhis2-immunization-tz",
   "meta": {
     "lastUpdated": "2016-08-03T11:59:03.495+03:00"
   },
