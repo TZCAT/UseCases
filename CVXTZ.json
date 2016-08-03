@@ -1,0 +1,57 @@
+{
+  "resourceType": "ValueSet",
+  "id": "cvx-tz",
+  "meta": {
+    "lastUpdated": "2016-08-03T11:59:03.495+03:00"
+  },
+  "url": "http://hl7.org/fhir/ValueSet/cvx-tz",
+  "version": "1.0.0",
+  "name": "CVX Tanzania Codes",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+  "date": "2015-10-24T07:41:03+11:00",
+  "description": "This value set defines the set of codes that are used in Tanzania for Vaccination.",
+  "compose": {
+    "include": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "concept": [
+          {
+            "code": "19"
+          },
+          {
+            "code": "102"
+          },
+          {
+            "code": "122"
+          },
+          {
+            "code": "03"
+          },
+          {
+            "code": "05"
+          },
+          {
+            "code": "112"
+          },
+          {
+            "code":"137"
+          },
+          {
+            "code":"37"
+          },
+          {
+            "code":"45"
+          },
+          {
+            "code":"133"
+          },
+          {
+            "code":"02"
+          }
+        ]
+      }
+    ]
+  }
+}
