@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventoryReport    xmlns="urn:gs1:ecom:inventory_report:xsd:3" >
+  <creationDateTime>2005-02-09T11:00:00.000-05:00</creationDateTime>
+  <documentStatusCode>ORIGINAL</documentStatusCode>
+  <inventoryReportIdentification>
+    <entityIdentification>IS25001</entityIdentification>
+  </inventoryReportIdentification>
+  <inventoryReportTypeCode>INVENTORY_STATUS</inventoryReportTypeCode>
+  <structureTypeCode>LOCATION_BY_ITEM</structureTypeCode>
+  <inventoryReportingParty>
+    <gln>9999999000010</gln>
+  </inventoryReportingParty>
+  <reportingPeriod>
+    <beginDate>2005-02-09</beginDate>
+  </reportingPeriod>
+  <inventoryItemLocationInformation>
+    <inventoryLocation>
+      <gln>9999999000027</gln>
+    </inventoryLocation>
+    <transactionalTradeItem>
+      <gtin>01111111111116</gtin>
+    </transactionalTradeItem>
+    <inventoryStatusLineItem>
+      <lineItemNumber>1</lineItemNumber>
+      <inventoryStatusQuantitySpecification>
+	<inventoryStatusType>AVAILABLE_FOR_SALE</inventoryStatusType>
+	<quantityOfUnits measurementUnitCode="CARTONS">15</quantityOfUnits>
+      </inventoryStatusQuantitySpecification>
+      <inventoryStatusQuantitySpecification>
+	<inventoryStatusType>EXPIRED</inventoryStatusType>
+	<quantityOfUnits measurementUnitCode="CARTONS">10</quantityOfUnits>
+      </inventoryStatusQuantitySpecification>
+    </inventoryStatusLineItem>
+  </inventoryItemLocationInformation>
+</inventoryReport>
