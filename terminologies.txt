@@ -26,3 +26,6 @@ GS1 Inventory Report
     http://apps.gs1.org/GDD/Pages/clDetails.aspx?semanticURN=urn:gs1:gdd:cl:InventoryStatusCode
   shipping activity codes
     http://apps.gs1.org/GDD/Pages/clDetails.aspx?semanticURN=urn:gs1:gdd:cl:InventoryActivityTypeCode
+
+Java XML serialization
+  http://www.codeproject.com/Articles/820877/Support-Both-Json-and-XML-Serializations-in-Spring
