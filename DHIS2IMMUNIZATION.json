@@ -15,7 +15,7 @@
   "compose": {
     "include": [
       {
-        "system": "http://dhis.moh.go.tz/api/dataElements/Immunization",
+        "system": "http://dhis.moh.go.tz/api/dataElements",
         "concept": [
           {
             "code": "Q2fFmlGkxRN"

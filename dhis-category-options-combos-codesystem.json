@@ -6,7 +6,7 @@
       "http://hl7.org/fhir/StructureDefinition/dhis2-category-option-combos"
     ]
   },
-  "url": "http://hl7.org/fhir/CodeSystem/dhis.moh.go.tz/api/categoryOptionCombos",
+  "url": "http://dhis.moh.go.tz/api/categoryOptionCombos",
   "version": "1.0.0",
   "name": "DHIS2 Category Option Combos",
   "status": "draft",
