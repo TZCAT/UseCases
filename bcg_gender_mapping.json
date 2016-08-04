@@ -1,0 +1,41 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "bcg-gender-to-fhir-gender-tz",
+  "url": "http://hl7.org/fhir/ConceptMap/bcg-gender-to-fhir-gender-tz",
+  "version": "1.0.0",
+  "name": "BCG Gender code to FHIR Gender Codes",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "VIMS TZ CAT team",
+  "date": "2016-08-03",
+  "sourceReference": {
+    "reference": "ValueSet/dhis2-bcg-gender-categories-tz"
+  },
+  "targetReference": {
+    "reference": "ValueSet/administrative-gender"
+  },
+  "group": [
+    {
+      "source": "http://dhis.moh.go.tz/api/categoryOptions",
+      "target": "http://hl7.org/fhir/administrative-gender",
+      "element": [
+        {
+          "code": "mtUMlCLFTTz",
+          "target": [
+            {
+              "code": "male"
+            }
+          ]
+        },
+        {
+          "code": "syxWmui9UMq",
+          "target": [
+            {
+              "code": "female"
+            }
+          ]
+        },
+x      ]
+    }
+  ]
+}
