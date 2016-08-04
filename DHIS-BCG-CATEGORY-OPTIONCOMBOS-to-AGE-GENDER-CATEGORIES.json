@@ -10,15 +10,15 @@
   "date": "2016-08-03",
   "description": "A mapping between the dhis category option combos to age gender categories",
   "sourceReference": {
-    "reference": "ValueSet/dhis2-bcg-category-option-combos"
+    "reference": "ValueSet/dhis2-bcg-category-option-combos-tz"
   },
   "targetReference": {
-    "reference": "ValueSet/dhis2-bcg-age-gender-categories"
+    "reference": "ValueSet/dhis2-bcg-age-gender-categories-tz"
   },
   "group": [
     {
-      "source": "http://hl7.org/fhir/ValueSet/dhis2-bcg-category-option-combos",
-      "target": "http://hl7.org/fhir/ValueSet/dhis2-bcg-age-gender-categories",
+      "source": "http://hl7.org/fhir/ValueSet/dhis2-bcg-category-option-combos-tz",
+      "target": "http://hl7.org/fhir/ValueSet/dhis2-bcg-age-gender-categories-tz",
       "element": [
         {
           "code": "R0FvvvlaHlI",
