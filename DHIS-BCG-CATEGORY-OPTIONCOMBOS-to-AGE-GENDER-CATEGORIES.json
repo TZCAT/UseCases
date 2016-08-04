@@ -1,6 +1,6 @@
 {
   "resourceType": "ConceptMap",
-  "id": "CVXTZ-DHIS2",
+  "id": "DHIS-BCG-CATEGORY-OPTIONCOMBOS-to-AGE-GENDER-CATEGORIES",
   "url": "http://hl7.org/fhir/ConceptMap/DHIS-BCG-CATEGORY-OPTIONCOMBOS-to-AGE-GENDER-CATEGORIES",
   "version": "1.0.0",
   "name": "DHIS2 Categori Option Combos to Age Gender Categories Mapping",
@@ -10,15 +10,15 @@
   "date": "2016-08-03",
   "description": "A mapping between the dhis category option combos to age gender categories",
   "sourceReference": {
-    "reference": "ValueSet/dhis2-bcg-category-option-combos"
+    "reference": "ValueSet/dhis2-bcg-category-option-combos-tz"
   },
   "targetReference": {
-    "reference": "ValueSet/dhis2-bcg-age-gender-categories"
+    "reference": "ValueSet/dhis2-bcg-age-gender-categories-tz"
   },
   "group": [
     {
-      "source": "http://hl7.org/fhir/ValueSet/dhis2-bcg-category-option-combos",
-      "target": "http://hl7.org/fhir/ValueSet/dhis2-bcg-age-gender-categories",
+      "source": "http://dhis.moh.go.tz/api/categoryOptionCombos",
+      "target": "http://dhis.moh.go.tz/api/categoryOptions",
       "element": [
         {
           "code": "R0FvvvlaHlI",
@@ -28,7 +28,7 @@
               "equivalence":"wider"
             },
             {
-				"code":"syxWmui9UMq",
+              "code":"syxWmui9UMq",
               "equivalence":"wider"
             }
           ]

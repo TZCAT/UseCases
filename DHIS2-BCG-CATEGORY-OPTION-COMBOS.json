@@ -15,7 +15,7 @@
   "compose": {
     "include": [
       {
-        "system": "http://dhis.moh.go.tz/api/categoryOptions/bcg-category-option-combos",
+        "system": "http://dhis.moh.go.tz/api/categoryOptionCombos",
         "concept": [
           {
             "code": "R0FvvvlaHlI"

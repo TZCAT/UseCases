@@ -6,7 +6,7 @@
       "http://hl7.org/fhir/StructureDefinition/dhis2-dataelements"
     ]
   },
-  "url": "http://hl7.org/fhir/CodeSystem/dhis.moh.go.tz/api/dataElements",
+  "url": "http://dhis.moh.go.tz/api/dataElements",
   "version": "1.0.0",
   "name": "DHIS2 DataElements",
   "status": "draft",
