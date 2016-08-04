@@ -29,3 +29,5 @@ GS1 Inventory Report
 
 Java XML serialization
   http://www.codeproject.com/Articles/820877/Support-Both-Json-and-XML-Serializations-in-Spring
+  XSL transformer
+    http://stackoverflow.com/questions/1705304/how-to-configure-java-xml-transform-transformer-in-spring
