@@ -31,3 +31,7 @@ Java XML serialization
   http://www.codeproject.com/Articles/820877/Support-Both-Json-and-XML-Serializations-in-Spring
   XSL transformer
     http://stackoverflow.com/questions/1705304/how-to-configure-java-xml-transform-transformer-in-spring
+
+
+DHIS2 Data Submission
+  http://dhis2.github.io/dhis2-docs/master/en/developer/html/webapi_data_values.html#d0e3276
