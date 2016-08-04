@@ -1,0 +1,148 @@
+{
+  "resourceType": "ConceptMap",
+  "id": "CVXTZ-DHIS2",
+  "url": "http://hl7.org/fhir/ConceptMap/DHIS-BCG-CATEGORY-OPTIONCOMBOS-to-AGE-GENDER-CATEGORIES",
+  "version": "1.0.0",
+  "name": "DHIS2 Categori Option Combos to Age Gender Categories Mapping",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+  "date": "2016-08-03",
+  "description": "A mapping between the dhis category option combos to age gender categories",
+  "sourceReference": {
+    "reference": "ValueSet/dhis2-bcg-category-option-combos"
+  },
+  "targetReference": {
+    "reference": "ValueSet/dhis2-bcg-age-gender-categories"
+  },
+  "group": [
+    {
+      "source": "http://hl7.org/fhir/ValueSet/dhis2-bcg-category-option-combos",
+      "target": "http://hl7.org/fhir/ValueSet/dhis2-bcg-age-gender-categories",
+      "element": [
+        {
+          "code": "R0FvvvlaHlI",
+          "target": [
+            {
+              "code": "NUUhXEngiby",
+              "equivalence":"wider"
+            },
+            {
+				"code":"syxWmui9UMq",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "HdwIgsY6gWF",
+          "target": [
+            {
+              "code": "NUUhXEngiby",
+              "equivalence":"wider"
+            },
+            {
+				"code":"syxWmui9UMq",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "wUPqvQCNzKz",
+          "target": [
+            {
+              "code": "uRyYLXG9XA0",
+              "equivalence":"wider"
+            },
+            {
+				"code":"syxWmui9UMq",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "LQdibyemWR9",
+          "target": [
+            {
+              "code": "uRyYLXG9XA0",
+              "equivalence":"wider"
+            },
+            {
+              "code": "mtUMlCLFTTz",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "CgQ5oSieXJt",
+          "target": [
+            {
+              "code": "uRyYLXG9XA0",
+              "equivalence":"wider"
+            },
+            {
+              "code": "syxWmui9UMq",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "btMDsNKZcug",
+          "target": [
+            {
+              "code": "NUUhXEngiby",
+              "equivalence":"wider"
+            },
+            {
+              "code": "mtUMlCLFTTz",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "LFYRzJIktV6",
+          "target": [
+            {
+              "code": "NUUhXEngiby",
+              "equivalence":"wider"
+            },
+            {
+              "code": "mtUMlCLFTTz",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "ME0y46H6zro",
+          "target": [
+            {
+              "code": "uRyYLXG9XA0",
+              "equivalence":"wider"
+            },
+            {
+              "code": "mtUMlCLFTTz",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "MqMQnGOqLuY",
+          "target": [
+            {
+              "code": "syxWmui9UMq",
+              "equivalence":"wider"
+            }
+          ]
+        },
+        {
+          "code": "X0Me7ygpiUT",
+          "target": [
+            {
+              "code": "mtUMlCLFTTz",
+              "equivalence":"wider"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

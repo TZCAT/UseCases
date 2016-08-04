@@ -1,0 +1,54 @@
+{
+  "resourceType": "ValueSet",
+  "id": "dhis2-bcg-category-option-combos-tz",
+  "meta": {
+    "lastUpdated": "2016-08-03T11:59:03.495+03:00"
+  },
+  "url": "http://hl7.org/fhir/ValueSet/dhis2-bcg-category-option-combos",
+  "version": "1.0.0",
+  "name": "DHIS2 BCG Category Option Combos",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+  "date": "2015-10-24T07:41:03+11:00",
+  "description": "This value set defines the set of codes that are used in DHIS for BCG Category Option Combos.",
+  "compose": {
+    "include": [
+      {
+        "system": "http://dhis.moh.go.tz/api/categoryOptions/bcg-category-option-combos",
+        "concept": [
+          {
+            "code": "R0FvvvlaHlI"
+          },
+          {
+            "code": "HdwIgsY6gWF"
+          },
+          {
+            "code": "wUPqvQCNzKz"
+          },
+          {
+            "code": "LQdibyemWR9"
+          },
+          {
+            "code": "CgQ5oSieXJt"
+          },
+          {
+            "code": "btMDsNKZcug"
+          },
+          {
+            "code": "LFYRzJIktV6"
+          },
+          {
+            "code": "ME0y46H6zro"
+          },
+          {
+            "code": "MqMQnGOqLuY"
+          },
+          {
+            "code": "X0Me7ygpiUT"
+          }
+        ]
+      }
+    ]
+  }
+}
