@@ -1,29 +1,29 @@
 {
   "resourceType": "ValueSet",
-  "id": "dhis2-bcg-age-categories-tz",
+  "id": "dhis2-bcg-gender-categories-tz",
   "meta": {
     "lastUpdated": "2016-08-03T11:59:03.495+03:00"
   },
   "url": "http://hl7.org/fhir/ValueSet/dhis2-bcg-age-categories",
   "version": "1.0.0",
-  "name": "DHIS2 BCG Age",
+  "name": "DHIS2 BCG Ag  Categories",
   "status": "draft",
   "experimental": true,
   "publisher": "TZ CAT team",
   "date": "2015-10-24T07:41:03+11:00",
-  "description": "This value set defines the set of codes that are used in DHIS for BCG Age",
+  "description": "This value set defines the set of codes that are used in DHIS for BCG Age ",
   "compose": {
     "include": [
       {
-        "system": "http://dhis.moh.go.tz/api/categoryOptions"
+        "system": "http://dhis.moh.go.tz/api/categoryOptions",
         "concept": [
           {
-            "code": "NUUhXEngiby",
-	    "display": "under 1"
+            "code": "mtUMlCLFTTz",
+	    "display": "Male"
           },
           {
-            "code": "uRyYLXG9XA0",
-	    "display": "above 1"
+            "code": "syxWmui9UMq",
+	    "display"  :  "Female"
           },
         ]
       }
