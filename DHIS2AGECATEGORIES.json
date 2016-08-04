@@ -1,0 +1,69 @@
+{
+  "resourceType": "ValueSet",
+  "id": "dhis2-age-tz",
+  "meta": {
+    "lastUpdated": "2016-08-03T11:59:03.495+03:00"
+  },
+  "url": "http://hl7.org/fhir/ValueSet/dhis2-age-categories",
+  "version": "1.0.0",
+  "name": "DHIS2 Age Category",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+  "date": "2015-10-24T07:41:03+11:00",
+  "description": "This value set defines the set of codes that are used in DHIS for Age Categories.",
+  "compose": {
+    "include": [
+      {
+        "system": "http://dhis.moh.go.tz/api/categoryOptions/Age",
+        "concept": [
+          {
+            "code": "hoVB2LGE7kI"
+          },
+          {
+            "code": "BX6v1gPZJcI"
+          },
+          {
+            "code": "xLotqtMo0pI"
+          },
+          {
+            "code": "ZXUT4IAcxX5"
+          },
+          {
+            "code":"jTYrvt8mSAK"
+          },
+          {
+            "code":"dX6eNuAKuE5"
+          },
+          {
+            "code":"GF4Nq9E8x6l"
+          },
+          {
+            "code":"UsRGaDRgUTs"
+          },
+          {
+            "code":"zRHsZS8M6Vd"
+          },
+          {
+            "code":"Cw0V80VVLNX"
+          },
+          {
+            "code":"i3RHRoyrkuO"
+          },
+          {
+            "code":"zemAa95OmOU"
+          },
+          {
+            "code":"WQzILILnT7L"
+          },
+          {
+            "code":"euQIyBCoW5p"
+          },
+          {
+            "code":"MXlU3E1Osb5"
+          }
+        ]
+      }
+    ]
+  }
+}

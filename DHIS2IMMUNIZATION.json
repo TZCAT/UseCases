@@ -15,7 +15,7 @@
   "compose": {
     "include": [
       {
-        "system": "http://hl7.org/fhir/sid/cvx",
+        "system": "http://dhis.moh.go.tz/api/dataElements/Immunization",
         "concept": [
           {
             "code": "Q2fFmlGkxRN"

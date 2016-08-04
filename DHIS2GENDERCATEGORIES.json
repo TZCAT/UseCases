@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "dhis2-gender-tz",
+  "meta": {
+    "lastUpdated": "2016-08-03T11:59:03.495+03:00"
+  },
+  "url": "http://hl7.org/fhir/ValueSet/dhis2-gender-categories",
+  "version": "1.0.0",
+  "name": "DHIS2 Gender Category",
+  "status": "draft",
+  "experimental": true,
+  "publisher": "TZ CAT team",
+  "date": "2015-10-24T07:41:03+11:00",
+  "description": "This value set defines the set of codes that are used in DHIS for Gender Categories.",
+  "compose": {
+    "include": [
+      {
+        "system": "http://dhis.moh.go.tz/api/categoryOptions/Gender",
+        "concept": [
+          {
+            "code": "mtUMlCLFTTz"
+          },
+          {
+            "code": "syxWmui9UMq"
+          }
+        ]
+      }
+    ]
+  }
+}
