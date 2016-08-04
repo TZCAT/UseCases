@@ -125,11 +125,13 @@
 		}
 	}
 
+/*
+Exampole Usage
 	$dhis2SaveWrapper = new DHIS2SaveWrapper("http://localhost:8080/dhis","","");
 	$dhis2SaveWrapper->addDataValue("m0frOspS7JY","DyJsbZOZFwE","uGIJ6IdkP7Q","2016Q2","10");
 	
 	echo $dhis2SaveWrapper->getDataValueJSONPayload();
 	
 	$dhis2SaveWrapper->save();
-
+*/
 ?>

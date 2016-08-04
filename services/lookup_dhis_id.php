@@ -6,7 +6,10 @@
  * Time: 3:57 PM
  */
 
+  /*
+   example usage
     lookup("37");
+  */
 
     function lookup($cvx_code) {
         $code=$cvx_code;
@@ -22,7 +25,7 @@
             if ($found == $code){
                 $target = $value['target'];
                 foreach($target as $key => $local_code){
-                    echo $local_code['code'];
+                    return $local_code['code'];
                 }
             }
         }

@@ -6,7 +6,10 @@
  * Time: 3:57 PM
  */
 
+  /*
+example usage
 lookup_gender("mtUMlCLFTTz");
+  */
 
     function lookup_gender($gender_code) {
         $code=$gender_code;
