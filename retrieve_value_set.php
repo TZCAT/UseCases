@@ -8,12 +8,10 @@ function create_option_list($server,$vs_id,$cs_id =false) {
         $cs_json = json_decode(file_get_contents($cs_url),true);
         $options = array();
         if (is_array($cs_json)
-            && array_key_exists('compose',$cs_json)
-            && is_array($cs_json['compose'])
-            && array_key_exists('include',$cs_json['compose'])
-            && is_array($cs_json['compose']['include'])
+            && array_key_exists('concept',$cs_json)
+            && is_array($cs_json['concept'])
             ) {
-            foreach ($cs_json['compose']['include'] as $include) {
+            foreach ($cs_json['concept'] as $concepty) {
                 $code = $concept['code'];
                 $display = $concept['display'];
                 if (!$code || !$display) {
