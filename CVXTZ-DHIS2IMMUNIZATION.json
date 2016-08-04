@@ -10,10 +10,10 @@
   "date": "2016-08-03",
   "description": "A mapping between the CVX for Tanzania and DHIS2",
   "sourceReference": {
-    "reference": "http://hl7.org/fhir/ValueSet/cvx-tz"
+    "reference": "ValueSet/cvx-tz"
   },
   "targetReference": {
-    "reference": "http://hl7.org/fhir/ValueSet/dhis2-immunization"
+    "reference": "ValueSet/dhis2-immunization-tz"
   },
   "group": [
     {

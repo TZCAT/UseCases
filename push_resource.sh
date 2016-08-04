@@ -1,9 +1,8 @@
-#!/bin/bash
+#!/bin/sh
 SERVER=http://fhirtest.uhn.ca/baseDstu3
 
-FILES=("CVXTZ-DHIS2IMMUNIZATION.json" "DHIS2IMMUNIZATION.json" "vims_product_list_concept.json" "CVXTZ.json" "vims_product_list_concept.json")
 
-for FILE in "${FILES[@]}"
+for FILE in *json
 do
     echo "Uploading $FILE"
     RESOURCE=`grep resourceType $FILE  | awk -F: '{print $2}' |  tr -d '"' | tr -d ',' | sed -e 's/^[[:space:]]*//'`
