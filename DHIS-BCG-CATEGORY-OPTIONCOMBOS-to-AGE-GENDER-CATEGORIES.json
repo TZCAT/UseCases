@@ -1,6 +1,6 @@
 {
   "resourceType": "ConceptMap",
-  "id": "CVXTZ-DHIS2",
+  "id": "DHIS-BCG-CATEGORY-OPTIONCOMBOS-to-AGE-GENDER-CATEGORIES",
   "url": "http://hl7.org/fhir/ConceptMap/DHIS-BCG-CATEGORY-OPTIONCOMBOS-to-AGE-GENDER-CATEGORIES",
   "version": "1.0.0",
   "name": "DHIS2 Categori Option Combos to Age Gender Categories Mapping",
