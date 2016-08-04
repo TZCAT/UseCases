@@ -5,18 +5,17 @@
  * Date: 8/4/16
  * Time: 3:40 PM
  */
-
+require_once("initialize_curl.php");
 #this is the received array of the requested combo, can accept multiple elements
 $requested_codes_to_search_array    = array("mtUMlCLFTTz");
 #$requested_codes_to_search_array    = array("NUUhXEngiby", "syxWmui9UMq");
 
 $results_found                      = array(); #adding the results obtained so if there is more than one result that matches we pick only the first
-$results_found = lookup($requested_codes_to_search_array);
 
 #echo the result of the lookup
-echo "the result of the lookup is ".$results_found[0];
+//echo "the result of the lookup is ".$results_found[0];
 
-function lookup($single_cat) {
+function lookup_combo($single_cat) {
     $code_array     =$single_cat; #this is now the array of the requested codes to match
     $result         =array();
     $result_index   = 0;
@@ -69,13 +68,4 @@ function lookup($single_cat) {
 
     #return the result to the caller
     return $result;
-}
-
-function initialize_curl() {
-    $ch = curl_init();
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-    curl_setopt($ch, CURLOPT_VERBOSE, true);
-    return $ch;
 }

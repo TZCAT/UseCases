@@ -10,8 +10,8 @@
    example usage
     lookup("37");
   */
-
-    function lookup($cvx_code) {
+	 require_once("initialize_curl.php");
+    function lookup_uuid($cvx_code) {
         $code=$cvx_code;
         $ch = initialize_curl();
         $url="http://fhirtest.uhn.ca/baseDstu3/ConceptMap/CVXTZ-DHIS2/?_format=json";
@@ -29,15 +29,6 @@
                 }
             }
         }
-    }
-
-    function initialize_curl() {
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-        curl_setopt($ch, CURLOPT_VERBOSE, true);
-        return $ch;
     }
 
 ?>
