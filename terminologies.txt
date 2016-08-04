@@ -19,3 +19,10 @@ Example FHIR URL:
 
 Installing sample FHIR Server
 	   http://hapifhir.io/doc_jpa.html
+
+
+GS1 Inventory Report
+  shipping status codes
+    http://apps.gs1.org/GDD/Pages/clDetails.aspx?semanticURN=urn:gs1:gdd:cl:InventoryStatusCode
+  shipping activity codes
+    http://apps.gs1.org/GDD/Pages/clDetails.aspx?semanticURN=urn:gs1:gdd:cl:InventoryActivityTypeCode
