@@ -1,9 +1,8 @@
-//Gives display names to dhis category option combos 
 /**
  * Takes a json generated from a dhis fetch request of /dhis/api/categoryOptionCombos.json?fields=id|rename(code),name|rename(display),categoryOptions&paging=false
  * and adds the names of the category options to the category option combos
  * 
- * 
+ * Author: Vincent Minde
  * 
  * */
  
