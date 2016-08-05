@@ -35,7 +35,7 @@ $(document).ready(function () {
                 function (data) {
                     var tableData = "";
                     for (var code in data.compose.include[0].concept) {
-                    	if(data.compose.include[0].concept[code].display=="BCG")
+                    		if(data.compose.include[0].concept[code].display=="BCG")
                         tableData += "<option value='" + data.compose.include[0].concept[code].code + "'>" + data.compose.include[0].concept[code].display + "</td></tr>";
                      }
                     $('#codes').html(tableData);
@@ -46,7 +46,7 @@ $(document).ready(function () {
 <body>
 <form action="#" name="send">
 <table align="center">
-<center><h1>Immunization</h1></center>
+<center><h1>Report BCG Vaccine Count To DHIS2</h1></center>
 <tr><td>Age</td><td>
 <select name="age">
 <?php
@@ -66,7 +66,7 @@ echo implode("\n",$options);
 <tr><td>Facility</td><td><input type="text" name="facility" value="urn:uuid:2C63C30F-D4FB-3FA5-9BEA-6DA616DD8CBA"></td></tr>
 <tr><td>Vaccine Code</td><td><select id="codes" name="codes"></select></td></tr>
 <tr><td>Sequence</td><td><input type="text" name="sequence"></td></tr>
-<tr><td><input type="button" onclick="display_report()" value="View Report"></td></tr>
+<tr><td><input type="button" onclick="display_report()" value="Send To DHIS"></td></tr>
 </table>
 </form>
 <div id="report">
