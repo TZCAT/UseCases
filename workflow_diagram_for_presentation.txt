@@ -1,0 +1,28 @@
+title Vaccine Consumption Report
+participant Interoperability\nLayer as IL
+participant Immunization\nRegistry as IR
+participant Terminology\nSerivce as TS
+participant DHIS2\n(HMIS) as DHIS2
+
+IL->TS: request list of vaccines\nUse FHIR ValueSet
+TS->IL: return list of vaccines\nUse FHIR ValueSet
+
+loop antigens,facilities
+IL->IR:request consumption for vaccine by\ngender, age group, facility\nUse FHIR Immunization and CVX code
+IR->IL:return count of used vaccines\nUse FHIR Immunization and CVX code
+end
+IL->TS: Request mapping of DHIS2 vaccine indicators to CVX code\nUse FHIR ValueSet and ConceptMap
+TS->IL: Return mapping of DHIS2 vaccine indicators to CVX code\nUse FHIR ValueSet and ConcectMap
+
+loop antigens
+IL->TS: request mapping of DHIS gender disaggregator code to\nstandard gender codes for the antigen\nUse FHIR ValueSet
+TS->IL: return mapping of gender codes\nUse FHIR ValueSet and ConceptMap 
+end
+
+loop antigen
+IL->TS: Lookup [gender,age group] ID\nUse FHIR ValueSet and ConceptMap
+TS->IL: Return [gender,age group] ID\nUse FHIR ValueSet and ConceptMap
+end
+
+IL->IL: prepare submission to DHIS2
+IL->DHIS2: submit indicator to DHIS2\nUse proprietary API
